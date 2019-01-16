@@ -16,11 +16,11 @@ public class Assembler {
 		return memberDao;
 	}
 
-	public MemberRegisterService getRegSvc() {
+	public MemberRegisterService getMemberRegisterService() {
 		return regSvc;
 	}
 
-	public ChangePasswordService getPwdSvc() {
+	public ChangePasswordService getChangePasswordService() {
 		return pwdSvc;
 	}
 	
