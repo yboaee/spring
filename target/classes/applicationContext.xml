@@ -5,7 +5,7 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans
 		http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-	<bean id="greeter" class="spring.Greeter">
+	<bean id="greeter" class="spring.chap02.Greeter">
 		<property name="format" value="%s, 안녕하세요!"/>
 	</bean>
 		

@@ -1,4 +1,4 @@
-package spring;
+package spring.chap02;
 
 import org.springframework.context.support.GenericXmlApplicationContext;
 

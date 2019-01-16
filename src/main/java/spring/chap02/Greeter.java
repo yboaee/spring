@@ -1,4 +1,4 @@
-package spring;
+package spring.chap02;
 
 public class Greeter {
 	
